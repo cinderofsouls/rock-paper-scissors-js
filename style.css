@@ -56,3 +56,7 @@ button:active {
     width: 125px;
     height: 30px;
 }
+
+#status {
+    white-space: pre;
+}
