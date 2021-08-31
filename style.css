@@ -1,0 +1,11 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    background-color: #131516;
+}
+
+h1, p {
+    color: #eee;
+}
