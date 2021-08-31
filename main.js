@@ -114,4 +114,8 @@ function playGame()
     }
 }
 
-playGame();
+const btn_rock = document.querySelector('#rock');
+const btn_paper = document.querySelector('#paper');
+const btn_scissors = document.querySelector('#scissors');
+
+//playGame();
