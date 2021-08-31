@@ -37,6 +37,10 @@ button:hover {
     border: 1px solid #666;
 }
 
+button:active {
+    color: #817e7a;
+}
+
 .buttons-container {
     margin-top: 20px;
     display: flex;
