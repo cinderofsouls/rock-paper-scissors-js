@@ -12,7 +12,7 @@ function computerPlay() {
 }
 
 function playerPlay() {
-    return prompt("test").toLowerCase();
+    return prompt("Enter 'rock', 'paper', or 'scissors'").toLowerCase();
 }
 
 function playRound() {
